@@ -1,0 +1,14 @@
+:root {
+  --bg-image: url(../images/cover-image-dark.png);
+  --text-color: #f1b2ce;
+  --title-color: #000028;
+  --logo-color: #db00ff;
+  --title-bg-color: #ff0070;
+  --decor-color: #ff0070;
+  --decor-color-opacity: rgba(255, 0, 112, 0.4);
+  --main-bg-color: #000028;
+  --footer-shadow-color: #ff0070;
+  --regular-weight: 400;
+  --bold-weight: 700;
+  --text-size: 18px;
+}
